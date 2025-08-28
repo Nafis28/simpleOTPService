@@ -84,7 +84,7 @@ graph LR
 
 ```bash
 # Clone the worker code
-git clone <your-repo>
+git clone https://github.com/Nafis28/simpleOTPService
 
 # Deploy to Cloudflare
 wrangler deploy
