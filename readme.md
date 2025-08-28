@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![D1](https://img.shields.io/badge/Database-D1-0051C3?style=for-the-badge&logo=cloudflare&logoColor=white)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/cloudflare/workers-sdk)![D1](https://img.shields.io/badge/Database-D1-0051C3?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![SMS](https://img.shields.io/badge/SMS_API-00D084?style=for-the-badge&logo=message&logoColor=white)
 ![Security](https://img.shields.io/badge/Auth-Basic-FFB800?style=for-the-badge&logo=shield&logoColor=white)
 
